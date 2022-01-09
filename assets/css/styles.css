@@ -30,23 +30,23 @@ body {
   }
   
   .progress-blue1 span {
-    background-color: rgb(255, 81, 0);
+    background-color: rgb(30, 255, 0);
   }
   .progress-blue2 span {
-    background-color: rgb(0, 145, 255);
+    background-color: rgb(30, 255, 0);
   }
   .progress-blue3 span {
-    background-color: rgb(255, 247, 0);
+    background-color: rgb(30, 255, 0);
   }
   .progress-blue4 span {
-    background-color: rgb(76, 0, 255);
+    background-color: rgb(30, 255, 0);
   }
   .progress-blue5 span {
-    background-color: rgba(0, 67, 87, 0.987);
+    background-color: rgb(30, 255, 0);
   }
   .progress-blue6 span {
-    background-color: rgb(209, 49, 0);
+    background-color: rgb(30, 255, 0);
   }
   .progress-blue7 span {
-    background-color: rgb(0, 217, 255);
+    background-color: rgb(30, 255, 0);
   }

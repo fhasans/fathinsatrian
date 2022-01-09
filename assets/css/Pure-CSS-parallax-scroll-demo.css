@@ -99,26 +99,28 @@ body {
   transform: translate(-50%, -50%);
 }
 .title2 {
-  background-color: #ffffff;
-  border-radius: 12px;
+  background-color: #f8f8f8;
+  border-bottom-left-radius: 16%;
+  border-bottom-right-radius: 16%;
   width: 30%;
   height: 85%;
   position: absolute;
   justify-content: center;
   left: 20%;
-  top: 48%;
+  top: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
 .title3{
   background-color: rgb(255, 255, 255);
-  border-radius: 12px;
+  border-bottom-left-radius: 15%;
+  border-bottom-right-radius: 15%;
   width: 30%;
   height:85%;
   position: absolute;
   justify-content: center;
   left: 80%;
-  top: 48%;
+  top: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
@@ -127,6 +129,14 @@ body {
   position: absolute;
   left: 50%;
   top: 78%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.title5 {
+  text-align: center;
+  position: absolute;
+  left: 30%;
+  top: 145%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
